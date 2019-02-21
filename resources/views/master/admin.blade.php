@@ -411,3 +411,8 @@
       <!-- main menu footer-->
     </div>
 @endsection
+
+@section('group-level-js')
+    <script src="{{ URL::asset('/js/core/app-menu.js') }}" type="text/javascript"></script>
+    <script src="{{ URL::asset('/js/core/app.js') }}" type="text/javascript"></script>
+@endsection

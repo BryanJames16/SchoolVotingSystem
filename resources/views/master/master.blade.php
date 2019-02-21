@@ -71,6 +71,8 @@
         <!-- Page-Level Javascript -->
         <script src="/js/concolor.js" type="text/javascript"></script>
         <!-- <script src="/js/securitystop.js" type="text/javascript"></script> -->
+        
+        @yield('group-level-js')
 
         @yield('page-level-js')
     </body>
