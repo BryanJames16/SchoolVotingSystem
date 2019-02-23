@@ -19,11 +19,25 @@ Route::get('/master', function () {
     return view('master.master');
 });
 
-Route::group(['prefix' => '/admin/{locale}'], function () { 
+Route::group(['prefix' => '/a93e57s/{locale}'], function () { 
     
     Route::get('/', function ($locale) {
         App::setLocale($locale);
+        return view('master.master');
+    });
+
+    Route::get('/admin', function ($locale) {
+        App::setLocale($locale);
         return view('master.admin');
+    });
+
+});
+
+Route::group(['prefix' => '/admin/{locale}'], function () { 
+    
+    Route::get('/dashboard', function ($locale) {
+        App::setLocale($locale);
+        return view('admin.dashboard');
     });
 
 });
