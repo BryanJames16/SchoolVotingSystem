@@ -1,0 +1,42 @@
+SCHOOL VOTING SYSTEM
+COPYRIGHT 2019 Bryan James Ilaga
+
+All the users, collaborators, and in general, stakeholders, that will use this system should 
+abide the license that has been stated hereof:
+
+1.) To protect the data that has been processed in the system, the system itself, must be 
+confidential. Users should not, in any case, expose data that can be used in criminal acts, 
+terrorism, infiltration, and any case that may put an individual to risk. If a system 
+user exposes private data to public, the system and its developers should not be held 
+liable for these instances.
+
+2.) System developers shall not be held liable for any third-party related incident that 
+may result to system failure.
+
+3.) The users should abide the terms of third-party apps, plugins, and software that has been 
+used in the creation, progression, and operation of the system itself.
+
+4.) Third-party services such as web hosting, should be licensed by the user itself. System 
+developers and members who collaborated in creating the software shall not be held liable 
+for renewal of hosting and other paid third-party services.
+
+5.) The user might use the software to fulfill the objectives and goals of system creation. 
+This includes the use of the system to speed-up processes inside the business of the client.
+
+Stated terms shall be fulfilled in any case of system use. However, personal data exposure 
+will only be available to system developers if the system needs maintenance, system patch, 
+and system integration. There must be, in any case, no violation of data integrity between 
+the developers and the data processed in the system. Future integration with other team 
+will be available through the permission given by the team itself.
+
+The system uses third-party libraries. These libraries might have different licenses other 
+than the license stated on this section of the file. There will be licenses stated in other 
+sections that points to the libraries, frameworks, and modules that has been integrated 
+with the system.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE.
